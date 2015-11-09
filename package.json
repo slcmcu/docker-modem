@@ -1,14 +1,15 @@
 {
   "name": "docker-modem",
   "description": "Docker remote API network layer module.",
-  "version": "0.2.6",
-  "author": "Pedro Dias <petermdias@gmail.com>",
+  "version": "0.2.7-dev-shipyard",
+  "author": "Evan Hazlet <ejhazlett@gmail.com>",
   "maintainers": [
-    "apocas <petermdias@gmail.com>"
+    "apocas <petermdias@gmail.com>",
+    "ehazlett <ejhazlett@gmail.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/apocas/docker-modem.git"
+    "url": "http://github.com/shipyard/docker-modem.git"
   },
   "keywords": [
     "containers",
